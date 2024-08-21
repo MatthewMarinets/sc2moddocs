@@ -2,6 +2,7 @@
 * [sc2mapster's getting started page](https://sc2mapster.github.io/mkdocs/setup/) is quite good for getting started. The home page includes links to many of the biggest sc2 modding discords
 * [Talv from sc2mapster made a sc2layout guide](https://mapster.talv.space/ui-layout)
 * [Talv's Galaxy reference](https://mapster.talv.space/galaxy/reference)
+* [Talv's Data reference](https://mapster.talv.space/data/annotated.html) seems less complete but at least lists all catalog types and their members
 * [The google doc on sc2layouts that everyone links](https://docs.google.com/document/d/1wvlTy-XCyCxjd4ZNuElRbqkcY5UA5pneYFl4i1LCYLs/edit)
 * [sc2mapster extract of gamedata](https://github.com/SC2Mapster/SC2GameData)
 * [Old blizzard docs on using the editor](https://s2editor-guides.readthedocs.io/#)
