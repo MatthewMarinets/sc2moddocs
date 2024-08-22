@@ -19,3 +19,7 @@
 * [sc1 voicelines](https://docs.google.com/spreadsheets/d/1yrQlLzqvt3rpWSti5aRLPRH3n5tKLn5MrFMMzfFsL8M/edit?gid=2049099558#gid=2049099558)
 * [starcraft2coop.com](https://starcraft2coop.com/) has a bunch of co-op information and seems to be the easiest lookup of co-op upgrades
 * [Liquipedia](https://liquipedia.net/starcraft2/Main_Page) has a bunch of historical stats and data
+* Xiaorobear made a infographic showing canonical unit sizes:
+  * [DeviantArt post](https://www.deviantart.com/xiaorobear/art/StarCraft-to-Scale-575265589)
+  * [image link](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4f5c6be8-650b-49c2-8bd8-a1cb67433f00/d9ihxrp-34e9a4b6-4431-4903-b396-5346110d0ebb.jpg/v1/fit/w_828,h_1486,q_70,strp/starcraft_to_scale_by_xiaorobear_d9ihxrp-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mjg3MCIsInBhdGgiOiJcL2ZcLzRmNWM2YmU4LTY1MGItNDljMi04YmQ4LWExY2I2NzQzM2YwMFwvZDlpaHhycC0zNGU5YTRiNi00NDMxLTQ5MDMtYjM5Ni01MzQ2MTEwZDBlYmIuanBnIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.8JTP1ojpsbe4qW1FUTv5YBsJIz7SIRQLyu6R6D7VvFg)
+
