@@ -1,7 +1,42 @@
 # Upgrade Data
-Defines upgrades, which are player-wide modification to other sorts of data.
+Defines upgrades, which are player-wide modifications to other sorts of data.
 
 All entries within the Upgrade Data catalog are of tag type `CUpgrade`.
+
+<details>
+<summary>Table of Contents</summary>
+
+- [Upgrade Data](#upgrade-data)
+  - [Fields](#fields)
+    - [Name](#name)
+    - [Race](#race)
+    - [EditorCategories](#editorcategories)
+    - [EffectArray](#effectarray)
+    - [EffectArrayTemplate](#effectarraytemplate)
+    - [AffectedUnitArray](#affectedunitarray)
+    - [Icon](#icon)
+    - [Alert](#alert)
+    - [InfoTooltipPriority](#infotooltippriority)
+    - [TechAliasArray](#techaliasarray)
+    - [DataCollection](#datacollection)
+    - [MaxLevel](#maxlevel)
+    - [BonusTimePerLevel](#bonustimeperlevel)
+    - [BonusResourcePerLevel](#bonusresourceperlevel)
+    - [LevelButton](#levelbutton)
+    - [LevelRequirements](#levelrequirements)
+    - [LeaderAlias](#leaderalias)
+    - [LeaderLevel](#leaderlevel)
+    - [LeaderPriority](#leaderpriority)
+    - [UnitAllowed](#unitallowed)
+    - [UnitDisallowed](#unitdisallowed)
+    - [EnumExcludedUserFlags](#enumexcludeduserflags)
+    - [EnumRequiredUserFlags](#enumrequireduserflags)
+    - [ScoreAmount](#scoreamount)
+    - [ScoreCount](#scorecount)
+    - [ScoreResult](#scoreresult)
+    - [ScoreValue](#scorevalue)
+    - [WebPriority](#webpriority)
+</details>
 
 ## Fields
 ### Name
@@ -14,7 +49,7 @@ All entries within the Upgrade Data catalog are of tag type `CUpgrade`.
 * Defines what race this upgrade is associated with in the editor
 * Example: `<Race value="Prot"/>`
 
-### Editor Categories
+### EditorCategories
 * attribute `value`: string -- editorcategories format
   * Formatted as a series of comma-separated `key:value` pairs
 * Defines the categories used to organize, search, and filter the upgrade in the editor
@@ -30,6 +65,7 @@ All entries within the Upgrade Data catalog are of tag type `CUpgrade`.
   * "AddBaseMultiply" and "SubtractBaseMultiply" modify a multiplier on the base value before additions and subtractions
 * Array type; can appear multiple times
 * Modifies the data field for the player when this upgrade is applied
+  * Fields must be upgradeable
 * Example 1: `<EffectArray Reference="Weapon,AP_GaussRifle,Range" Value="1"/>`
 * Example 2: `<EffectArray Operation="Set" Reference="Button,AP_Thor,Tooltip" Value="Button/Tooltip/AP_ThorUpgraded"/>`
 
