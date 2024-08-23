@@ -94,7 +94,7 @@ This enum is used to filter the state of count-type requirement nodes. Values ar
 
 ### CRequirementCountAbil
 * field `Count`:
-  * attribute `Link`: `CBehavior` id
+  * attribute `Link`: `CBehavior` id or alias
   * attribute `State`: enum -- [State](#state)
   * attribute `Unlock`: string (optional)
 * Returns the current level of an ability
@@ -102,7 +102,7 @@ This enum is used to filter the state of count-type requirement nodes. Values ar
 
 ### CRequirementCountBehavior
 * field `Count`:
-  * attribute `Link`: `CBehavior` id
+  * attribute `Link`: `CBehavior` id or alias
   * attribute `State`: enum -- [State](#state)
   * attribute `Unlock`: string (optional)
 * Returns the number of stacks of a behaviour specified by `Count.Link`, and matching `State`
@@ -117,14 +117,16 @@ Example:
 
 ### CRequirementCountUnit
 * field `Count`:
-  * attribute `Link`: `CUnit` id
+  * attribute `Link`: `CUnit` id or alias
   * attribute `State`: enum -- [State](#state)
   * attribute `Unlock`: string (optional)
-* Counts the number a unit type owned by a player
+* Counts the number of a unit type owned by a player
+* If using an alias, `Unlock` can be used to specify which unit is the "main" unit unlocking things
+  * This is important for tooltips if nothing is specified on the requirement node itself
 
 ### CRequirementCountUpgrade
 * field `Count`:
-  * attribute `Link`: `CUpgrade` id
+  * attribute `Link`: `CUpgrade` id or alias
   * attribute `State`: enum -- [State](#state)
   * attribute `Unlock`: string (optional)
 * Counts the level of an upgrade researched by a player
