@@ -14,6 +14,9 @@
 * [DaveSpectre's m3studio tutorials](https://www.youtube.com/watch?v=MDFx9at5ubw&list=PLZP-jB0xcxPrBZm3K8zOmpdN76qSEiswR&index=4)
 * [Replacing a texture in a model with m3editor](https://www.youtube.com/watch?v=_2I55hW1pyc)
 
+## Other tutorials
+* [sc2mapster tutorial post on making wireframes](https://www.sc2mapster.com/forums/resources/tutorials/231905-how-to-create-wireframes-including-shield)
+
 ## Content lookup
 * [sc2 voicelines](https://docs.google.com/spreadsheets/d/147uZiMGrBw4qJXj0NsJ0HFU49V-g0NQtC4JNUmKdGT4/edit?gid=28345329#gid=28345329)
 * [sc1 voicelines](https://docs.google.com/spreadsheets/d/1yrQlLzqvt3rpWSti5aRLPRH3n5tKLn5MrFMMzfFsL8M/edit?gid=2049099558#gid=2049099558)
