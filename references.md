@@ -16,6 +16,7 @@
 
 ## Other tutorials
 * [sc2mapster tutorial post on making wireframes](https://www.sc2mapster.com/forums/resources/tutorials/231905-how-to-create-wireframes-including-shield)
+* [How to Store values with a bank](https://buymeacoffee.com/majorkaza/how-store-values)
 
 ## Content lookup
 * [sc2 voicelines](https://docs.google.com/spreadsheets/d/147uZiMGrBw4qJXj0NsJ0HFU49V-g0NQtC4JNUmKdGT4/edit?gid=28345329#gid=28345329)
