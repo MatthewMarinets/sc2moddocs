@@ -6,18 +6,18 @@
 * [The google doc on sc2layouts that everyone links](https://docs.google.com/document/d/1wvlTy-XCyCxjd4ZNuElRbqkcY5UA5pneYFl4i1LCYLs/edit)
 * [sc2mapster extract of gamedata](https://github.com/SC2Mapster/SC2GameData)
 * [Old blizzard docs on using the editor](https://s2editor-guides.readthedocs.io/#)
-* [sc2mapster user guide on kinetics](https://www.sc2mapster.com/forums/development/data/156280-practical-kinetics)
 * [editor debug cheats](https://s2editor-guides.readthedocs.io/New_Tutorials/03_Trigger_Editor/055_Debug_Cheats/)
 * [Old sc2mapster wikia site](https://sc2mapster.fandom.com/wiki/SC2Mapster_Wiki) has a lot of information on editor data
+<!-- * [sc2mapster user guide on kinetics](https://www.sc2mapster.com/forums/development/data/156280-practical-kinetics) -->
 
 ## Video tutorials
 * [DaveSpectre's m3studio tutorials](https://www.youtube.com/watch?v=MDFx9at5ubw&list=PLZP-jB0xcxPrBZm3K8zOmpdN76qSEiswR&index=4)
 * [Replacing a texture in a model with m3editor](https://www.youtube.com/watch?v=_2I55hW1pyc)
 
 ## Other tutorials
-* [sc2mapster tutorial post on making wireframes](https://www.sc2mapster.com/forums/resources/tutorials/231905-how-to-create-wireframes-including-shield)
 * [How to Store values with a bank](https://buymeacoffee.com/majorkaza/how-store-values)
 * [Zephyr's guide to enemy AI](https://docs.google.com/document/d/1aTi2A8R4uhfJaEQtmI1aPPR9gLJ_Q14S8PKK5EeVCto/edit?tab=t.0)
+<!-- * [sc2mapster tutorial post on making wireframes](https://www.sc2mapster.com/forums/resources/tutorials/231905-how-to-create-wireframes-including-shield) -->
 
 ## Content lookup
 * [sc2 voicelines](https://docs.google.com/spreadsheets/d/147uZiMGrBw4qJXj0NsJ0HFU49V-g0NQtC4JNUmKdGT4/edit?gid=28345329#gid=28345329)
