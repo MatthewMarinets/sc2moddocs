@@ -8,6 +8,7 @@
 * [Old blizzard docs on using the editor](https://s2editor-guides.readthedocs.io/#)
 * [editor debug cheats](https://s2editor-guides.readthedocs.io/New_Tutorials/03_Trigger_Editor/055_Debug_Cheats/)
 * [Old sc2mapster wikia site](https://sc2mapster.fandom.com/wiki/SC2Mapster_Wiki) has a lot of information on editor data
+* [The sc2mapster wiki guide to text tags](https://sc2mapster.wiki.gg/wiki/Text_Tags)
 <!-- * [sc2mapster user guide on kinetics](https://www.sc2mapster.com/forums/development/data/156280-practical-kinetics) -->
 
 ## Video tutorials
